@@ -1,0 +1,73 @@
+[33mcommit e615db5f4cddca248dde062bea460c5186b03edf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Thu Jan 25 13:13:29 2024 +0300
+
+    delete file deleteme.txt
+
+[33mcommit fc955ec6a9c4ab83ac43b0cd44a16c1330708874[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Thu Jan 25 12:54:18 2024 +0300
+
+    move my prog in pack
+
+[33mcommit a126563c54f4007b9eab0421bba027e3aefade97[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Wed Jan 24 18:35:55 2024 +0300
+
+    2 old programms on hexlet
+
+[33mcommit c19388b9452190682b33937d0bd6b2e4923f2438[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Mon Oct 9 03:39:46 2023 +0300
+
+    update exp with --amend for README & INFO
+
+[33mcommit d2e095fcf5bbc74c084ff82dbe2f8ee1f08a8c0f[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Mon Oct 9 03:19:09 2023 +0300
+
+    update README.md
+
+[33mcommit f66a649da783424362b882da6f3012fb46b86f31[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Mon Oct 9 02:44:07 2023 +0300
+
+    Revert "deleted"
+    
+    This reverts commit 59bcf532ecd18530fe2bc7ddbc8b80fe701258ed.
+
+[33mcommit 0780e3450f4717e58aee75768e3f4d3aff89cbf4[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Sun Oct 8 22:44:22 2023 +0300
+
+    '2 file for learn'
+
+[33mcommit 9b36811bf201fd020cafe8d2e655d4f71879de6d[m
+Author: OLVOS <anhkrem@gmail.com>
+Date:   Sun Oct 8 16:45:28 2023 +0300
+
+    small massage
+
+[33mcommit 619110e5f632c61512593e013bca4396c76fff42[m
+Author: Jim Broadbent <anhkrem@gmail.com>
+Date:   Sun Oct 8 13:13:33 2023 +0300
+
+    info
+
+[33mcommit 59bcf532ecd18530fe2bc7ddbc8b80fe701258ed[m
+Author: Jim Broadbent <anhkrem@gmail.com>
+Date:   Sun Oct 8 13:12:02 2023 +0300
+
+    deleted
+
+[33mcommit 2ab2e94f00b653ee8622b8b2acb2e031ad78b784[m
+Author: Jim Broadbent <anhkrem@gmail.com>
+Date:   Fri Oct 6 14:03:33 2023 +0300
+
+    emptry new
+
+[33mcommit b594dc1e424217f18bb946b5fbf72fa84156946a[m
+Author: root <root@LAPTOP-CML1IP6K>
+Date:   Tue Oct 3 17:57:23 2023 +0300
+
+    add README.md
