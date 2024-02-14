@@ -7,7 +7,14 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+colorama = "^0.4.6"
 
+[tool.poetry.scripts]
+say-hello = "poetry1.scripts.hello:main"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
 
 [build-system]
 requires = ["poetry-core"]
